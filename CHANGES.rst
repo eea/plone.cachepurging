@@ -1,16 +1,8 @@
 Changelog
 =========
 
-1.0.16 (unreleased)
--------------------
-
-Breaking changes:
-
-- *add item here*
-
-New features:
-
-- *add item here*
+1.0.16.rc1 (2018-06-06)
+-----------------------
 
 Bug fixes:
 
